@@ -1,0 +1,1838 @@
+fileFormatVersion: 2
+guid: 9adba945ee254084db271839b19ab209
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2955761285054803587
+    second: NewHero_0
+  - first:
+      213: 5319760199121830008
+    second: NewHero_1
+  - first:
+      213: -3163513956004866300
+    second: NewHero_2
+  - first:
+      213: 5623923870116262726
+    second: NewHero_3
+  - first:
+      213: 4807073883561620908
+    second: NewHero_4
+  - first:
+      213: 8533190042134262741
+    second: NewHero_5
+  - first:
+      213: 8261818130305028383
+    second: NewHero_6
+  - first:
+      213: -3545096790720822260
+    second: NewHero_7
+  - first:
+      213: -4182812672794540649
+    second: NewHero_8
+  - first:
+      213: -3919593687350616740
+    second: NewHero_9
+  - first:
+      213: 3076686285202384953
+    second: NewHero_10
+  - first:
+      213: 7135331779900607929
+    second: NewHero_11
+  - first:
+      213: -2755525134181171734
+    second: NewHero_12
+  - first:
+      213: 7129709894943057311
+    second: NewHero_13
+  - first:
+      213: -5789484084268875101
+    second: NewHero_14
+  - first:
+      213: 6307109968362605322
+    second: NewHero_15
+  - first:
+      213: 3962343558983529006
+    second: NewHero_16
+  - first:
+      213: 7221141425646535132
+    second: NewHero_17
+  - first:
+      213: -6286172909207903523
+    second: NewHero_18
+  - first:
+      213: -8281432189851911839
+    second: NewHero_19
+  - first:
+      213: -2371727600022946739
+    second: NewHero_20
+  - first:
+      213: 3479332637637912356
+    second: NewHero_21
+  - first:
+      213: -6460222855955518680
+    second: NewHero_22
+  - first:
+      213: 5030681213008516758
+    second: NewHero_23
+  - first:
+      213: 5296521667838795625
+    second: NewHero_24
+  - first:
+      213: -6395978467596043857
+    second: NewHero_25
+  - first:
+      213: -1497188020706511160
+    second: NewHero_26
+  - first:
+      213: -185814552133815124
+    second: NewHero_27
+  - first:
+      213: 9069252384194424573
+    second: NewHero_28
+  - first:
+      213: 2423143983545530055
+    second: NewHero_29
+  - first:
+      213: -3313969511961290274
+    second: NewHero_30
+  - first:
+      213: 4751895888398834723
+    second: NewHero_31
+  - first:
+      213: -5363449754729211754
+    second: NewHero_32
+  - first:
+      213: 3949293453255560726
+    second: NewHero_33
+  - first:
+      213: -8190416378849280878
+    second: NewHero_34
+  - first:
+      213: -5107808514404939603
+    second: NewHero_35
+  - first:
+      213: 6984634841239075963
+    second: NewHero_36
+  - first:
+      213: 451130144885951573
+    second: NewHero_37
+  - first:
+      213: 5190060770154577881
+    second: NewHero_38
+  - first:
+      213: -61540657515061830
+    second: NewHero_39
+  - first:
+      213: -4006560088251727893
+    second: NewHero_40
+  - first:
+      213: -369894556301763044
+    second: NewHero_41
+  - first:
+      213: 3919430390128386550
+    second: NewHero_42
+  - first:
+      213: 7217894847731789935
+    second: NewHero_43
+  - first:
+      213: 776729805401484363
+    second: NewHero_44
+  - first:
+      213: 1233799430714635944
+    second: NewHero_45
+  - first:
+      213: 2608383702328136987
+    second: NewHero_46
+  - first:
+      213: 5490074853066525435
+    second: NewHero_47
+  - first:
+      213: -4319093612414297031
+    second: NewHero_48
+  - first:
+      213: -7720472633970199834
+    second: NewHero_49
+  - first:
+      213: 6706573436291887773
+    second: NewHero_50
+  - first:
+      213: -1066326406636177664
+    second: NewHero_51
+  - first:
+      213: 3931644246600294829
+    second: NewHero_52
+  - first:
+      213: 8788105745574863970
+    second: NewHero_53
+  - first:
+      213: -3655863748549378852
+    second: NewHero_54
+  - first:
+      213: -5640972297081014347
+    second: NewHero_55
+  - first:
+      213: -6283157187018252995
+    second: NewHero_56
+  - first:
+      213: 1278265669162229513
+    second: NewHero_57
+  - first:
+      213: 4225835677420731474
+    second: NewHero_58
+  - first:
+      213: 7222134163105564712
+    second: NewHero_59
+  - first:
+      213: 2890004700961875936
+    second: NewHero_60
+  - first:
+      213: -3676043475104035514
+    second: NewHero_61
+  - first:
+      213: -2608871467864760984
+    second: NewHero_62
+  - first:
+      213: 760380100150309939
+    second: NewHero_63
+  - first:
+      213: -2834245653279864774
+    second: NewHero_64
+  - first:
+      213: -3132064765505324235
+    second: NewHero_65
+  - first:
+      213: 8090313749235977253
+    second: NewHero_66
+  - first:
+      213: -4095433708021726223
+    second: NewHero_67
+  - first:
+      213: 5363587237383110971
+    second: NewHero_68
+  - first:
+      213: -1614799282886125176
+    second: NewHero_69
+  - first:
+      213: 2739898144069141852
+    second: NewHero_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewHero_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 991
+        width: 276
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44725422c0ff00b4a9e8ce71b82d763e
+      internalID: 2955761285054803587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 991
+        width: 281
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95945e9635c27489b7ba4a290a9c51
+      internalID: 5319760199121830008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 991
+        width: 281
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf1ab78590687446bc1335acfc99664
+      internalID: -3163513956004866300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 991
+        width: 281
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c442548fec2dd3468679f331ab23a2e
+      internalID: 5623923870116262726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 991
+        width: 285
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d23b888d2526d4fba381a5e683fcc7
+      internalID: 4807073883561620908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_5
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 991
+        width: 282
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221c1e2762831c45a6a97ff5438968c
+      internalID: 8533190042134262741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_6
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 991
+        width: 278
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772cb725d8c921344a94e0c842416b27
+      internalID: 8261818130305028383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_7
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 991
+        width: 278
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29966b1b9997e43a9e33d804958033
+      internalID: -3545096790720822260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_8
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 991
+        width: 280
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55297ff532ec84c87947e959317137
+      internalID: -4182812672794540649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_9
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 991
+        width: 278
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfce75c951182947ac93f41f474b7a0
+      internalID: -3919593687350616740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_10
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536b93c1636dac4b9ea9fa97ceaba53
+      internalID: 3076686285202384953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_11
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc346fba5a64f47a5a45f031167b26
+      internalID: 7135331779900607929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_12
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167155f843eda1f43a92ff4b91b08fce
+      internalID: -2755525134181171734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_13
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb1df809f3bce4a866c1ee09907ed5
+      internalID: 7129709894943057311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_14
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35fbcea1a2ca846945ca1ae94ed0d1
+      internalID: -5789484084268875101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_15
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b368f2c0aff774385044f379b9fbb5
+      internalID: 6307109968362605322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_16
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61090d29ae5ba0943b2c79e3c8337f93
+      internalID: 3962343558983529006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_17
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15bb0de65cc6764ea065b3f3d159347
+      internalID: 7221141425646535132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_18
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 991
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f00f185dbe29428859481512b80c3
+      internalID: -6286172909207903523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 684
+        width: 276
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d141dfd7179a147a84ba0e2d0ca697
+      internalID: -8281432189851911839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 684
+        width: 275
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54485b21158866429a7edba7a711fab
+      internalID: -2371727600022946739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 684
+        width: 255
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aefe14891a1434eacc8881cd317c75
+      internalID: 3479332637637912356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 684
+        width: 255
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4175cdd198cafec40ac19ad0b8e45654
+      internalID: -6460222855955518680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_23
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 684
+        width: 259
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6586c587e1142f2438e70f0d0a54e9e0
+      internalID: 5030681213008516758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_24
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 684
+        width: 256
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd684d173434f164ab69cdc263c62285
+      internalID: 5296521667838795625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_25
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 684
+        width: 262
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac601e99f245d21438ef73afb7ecadd2
+      internalID: -6395978467596043857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_26
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 684
+        width: 262
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd8821c87fee54cb18419f08ec4936
+      internalID: -1497188020706511160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_27
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 684
+        width: 263
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a936ad343bb6408dfb14f2ac096bc
+      internalID: -185814552133815124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_28
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 684
+        width: 264
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cd9c43ecf06549b989989763cf2f6
+      internalID: 9069252384194424573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_29
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 684
+        width: 278
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c225115b1a544fa11f7e5e9615f0f
+      internalID: 2423143983545530055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_30
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 684
+        width: 275
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8727966f0512d0c4fb59f33f4a9df429
+      internalID: -3313969511961290274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_31
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 684
+        width: 276
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27857c688087de4bbfb064f951d908a
+      internalID: 4751895888398834723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_32
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 684
+        width: 281
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ef7b7db9c2dd42b78f4d5e32c994a
+      internalID: -5363449754729211754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_33
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 684
+        width: 285
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c72b7ab424064d90bcd48e29f5857
+      internalID: 3949293453255560726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_34
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 684
+        width: 301
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e7fcc5875ea84d93da5d91f4299fe
+      internalID: -8190416378849280878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_35
+      rect:
+        serializedVersion: 2
+        x: 4891
+        y: 684
+        width: 303
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c73a5b0199b89408793f9a11a5bcee
+      internalID: -5107808514404939603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_36
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 684
+        width: 300
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc61ca91ed6b143a5a03034b6debb1
+      internalID: 6984634841239075963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 392
+        width: 301
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8657db55986b854ea903807cd939a51
+      internalID: 451130144885951573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 392
+        width: 301
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a022a525673454890994a0b8d19f87
+      internalID: 5190060770154577881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_39
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 392
+        width: 285
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6d25ab8f3b7249b613e8e890bb96c
+      internalID: -61540657515061830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_40
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 392
+        width: 281
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2461f3f0ce84efd4784e26719d3417d5
+      internalID: -4006560088251727893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_41
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 392
+        width: 278
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e22d870f0cd045b6647f8e11fec5f
+      internalID: -369894556301763044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_42
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 392
+        width: 278
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09bf87755fee7441ac0be44f3050712
+      internalID: 3919430390128386550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_43
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 392
+        width: 278
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c31ff848bc5464e9ed72bb7e539e33
+      internalID: 7217894847731789935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_44
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 392
+        width: 262
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27428314707a8c442856f533cacdcd19
+      internalID: 776729805401484363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_45
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 392
+        width: 262
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a20adb5fa9e9840aef2beb88cb2f30
+      internalID: 1233799430714635944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_46
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 392
+        width: 262
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d15e04e369d704c9c0e2171b2d8652
+      internalID: 2608383702328136987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_47
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 392
+        width: 263
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50e458217042b4fb510e5c2f1afff8
+      internalID: 5490074853066525435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_48
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 392
+        width: 256
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885d086a478feaa4d9a9a5ca54188e65
+      internalID: -4319093612414297031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_49
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 392
+        width: 256
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f86b8c170b24a41a818e9ed1ae359b
+      internalID: -7720472633970199834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_50
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 392
+        width: 256
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83527146ff53bd4588649a8fe0928e8
+      internalID: 6706573436291887773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_51
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 392
+        width: 256
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f60c6b4f963ab4e8d38be475799a1c
+      internalID: -1066326406636177664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_52
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 392
+        width: 275
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54be6e1cf522a445ad24ce253b38080
+      internalID: 3931644246600294829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_53
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 392
+        width: 275
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655697d22de5db4ea66851eae335862
+      internalID: 8788105745574863970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 275
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5fd74b3455c6429c8014364cdfcbd
+      internalID: -3655863748549378852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_55
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 101
+        width: 275
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b49208b3fc9947bf73abc8fc1424e
+      internalID: -5640972297081014347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 101
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fde6fb4b2e5e4ab93dd6123708536
+      internalID: -6283157187018252995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_57
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 101
+        width: 276
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1380671728e6fe14eb8c6b405573f39f
+      internalID: 1278265669162229513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_58
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 101
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497a6a8c7f42254a813ace75904229a
+      internalID: 4225835677420731474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_59
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 101
+        width: 277
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda17a1beb110ab449c51bac0c9bf30d
+      internalID: 7222134163105564712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_60
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 101
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725cef6ff59e34e43b3ebd9a37b80a37
+      internalID: 2890004700961875936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_61
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 101
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd81916f18a2f443a30a229ffc2087f
+      internalID: -3676043475104035514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_62
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 101
+        width: 277
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b48c31ab0d2b4db2962373abbd599
+      internalID: -2608871467864760984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_63
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 101
+        width: 278
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14c2d7df988804cb4127e27653aae2
+      internalID: 760380100150309939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_64
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 101
+        width: 278
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca9523eefe5ea47a56eab879b50162
+      internalID: -2834245653279864774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_65
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 101
+        width: 279
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43458bbb75728b4699b631be39660dd
+      internalID: -3132064765505324235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_66
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 101
+        width: 280
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282cd32fd3c7a514d9a9892ecf379ccb
+      internalID: 8090313749235977253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_67
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 101
+        width: 282
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a02a828502055449a4d7a18a1fada0
+      internalID: -4095433708021726223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_68
+      rect:
+        serializedVersion: 2
+        x: 4981
+        y: 101
+        width: 281
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c99acb17d93e4181b7f071d8ff3a5
+      internalID: 5363587237383110971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_69
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 101
+        width: 278
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f12fe380a2e2840b35bdaa25287fa8
+      internalID: -1614799282886125176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHero_70
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 101
+        width: 283
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffae75d9480bde47b30e99d8992cc2b
+      internalID: 2739898144069141852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8ce8e7f228fd56499837bc6cf12c211
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

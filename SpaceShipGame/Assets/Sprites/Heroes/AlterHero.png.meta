@@ -1,0 +1,1838 @@
+fileFormatVersion: 2
+guid: 09a171cf4e755d245a2a885511a61b9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6828340123233543301
+    second: AlterHero_0
+  - first:
+      213: -6368812445251339358
+    second: AlterHero_1
+  - first:
+      213: -5042038726047763651
+    second: AlterHero_2
+  - first:
+      213: 6464187989652797792
+    second: AlterHero_3
+  - first:
+      213: -2978695545461294579
+    second: AlterHero_4
+  - first:
+      213: -6892256385153992414
+    second: AlterHero_5
+  - first:
+      213: 7398419844541678741
+    second: AlterHero_6
+  - first:
+      213: 516239535632736447
+    second: AlterHero_7
+  - first:
+      213: -1449389768957201297
+    second: AlterHero_8
+  - first:
+      213: 2935214076923815922
+    second: AlterHero_9
+  - first:
+      213: 594136252315378525
+    second: AlterHero_10
+  - first:
+      213: -4463678868888084792
+    second: AlterHero_11
+  - first:
+      213: -548488096550598972
+    second: AlterHero_12
+  - first:
+      213: -7881956139655368867
+    second: AlterHero_13
+  - first:
+      213: 8137851442397224083
+    second: AlterHero_14
+  - first:
+      213: 2969096989207472507
+    second: AlterHero_15
+  - first:
+      213: -3587925892739421248
+    second: AlterHero_16
+  - first:
+      213: 1910845973372463919
+    second: AlterHero_17
+  - first:
+      213: -6975118792927257381
+    second: AlterHero_18
+  - first:
+      213: 3631274062517419288
+    second: AlterHero_19
+  - first:
+      213: -6750018428045955510
+    second: AlterHero_20
+  - first:
+      213: -7977626764741029438
+    second: AlterHero_21
+  - first:
+      213: 7784377055352219822
+    second: AlterHero_22
+  - first:
+      213: 6179983816563422778
+    second: AlterHero_23
+  - first:
+      213: 3828338307245936824
+    second: AlterHero_24
+  - first:
+      213: 2806258002212234387
+    second: AlterHero_25
+  - first:
+      213: 4601369182092407715
+    second: AlterHero_26
+  - first:
+      213: -5435054012237810953
+    second: AlterHero_27
+  - first:
+      213: -7063291150321698585
+    second: AlterHero_28
+  - first:
+      213: 5777105144312281600
+    second: AlterHero_29
+  - first:
+      213: 4678799838836756116
+    second: AlterHero_30
+  - first:
+      213: -7147381003912527665
+    second: AlterHero_31
+  - first:
+      213: -924624521269834731
+    second: AlterHero_32
+  - first:
+      213: 1324767702111805873
+    second: AlterHero_33
+  - first:
+      213: 8911944921893295870
+    second: AlterHero_34
+  - first:
+      213: 3797152874520181637
+    second: AlterHero_35
+  - first:
+      213: 34310605690712130
+    second: AlterHero_36
+  - first:
+      213: -6495118030991357726
+    second: AlterHero_37
+  - first:
+      213: 3612190353980046226
+    second: AlterHero_38
+  - first:
+      213: -7455768294319981651
+    second: AlterHero_39
+  - first:
+      213: -9068367228591585599
+    second: AlterHero_40
+  - first:
+      213: -8059355118314526676
+    second: AlterHero_41
+  - first:
+      213: -7806742574512430972
+    second: AlterHero_42
+  - first:
+      213: -2885657969394936896
+    second: AlterHero_43
+  - first:
+      213: -6747771574071824380
+    second: AlterHero_44
+  - first:
+      213: 8595300323286570681
+    second: AlterHero_45
+  - first:
+      213: -6897722754491529859
+    second: AlterHero_46
+  - first:
+      213: 1874612205237216083
+    second: AlterHero_47
+  - first:
+      213: -6040151850982342951
+    second: AlterHero_48
+  - first:
+      213: -1327528866553276375
+    second: AlterHero_49
+  - first:
+      213: 4753207749557641298
+    second: AlterHero_50
+  - first:
+      213: 4154713346743621118
+    second: AlterHero_51
+  - first:
+      213: 69376405838650074
+    second: AlterHero_52
+  - first:
+      213: 3553769836995747555
+    second: AlterHero_53
+  - first:
+      213: 6561031701046086811
+    second: AlterHero_54
+  - first:
+      213: -2648098211417648697
+    second: AlterHero_55
+  - first:
+      213: 3986677838043751090
+    second: AlterHero_56
+  - first:
+      213: -6622088047768693437
+    second: AlterHero_57
+  - first:
+      213: -693727718770779403
+    second: AlterHero_58
+  - first:
+      213: 6707211561091960675
+    second: AlterHero_59
+  - first:
+      213: -2404138398167974448
+    second: AlterHero_60
+  - first:
+      213: 1835793451716050805
+    second: AlterHero_61
+  - first:
+      213: 6178761590587966600
+    second: AlterHero_62
+  - first:
+      213: -2536031240207153319
+    second: AlterHero_63
+  - first:
+      213: 5454311678099188372
+    second: AlterHero_64
+  - first:
+      213: -1844833118372496546
+    second: AlterHero_65
+  - first:
+      213: -5488801103260653713
+    second: AlterHero_66
+  - first:
+      213: 5745252245548289466
+    second: AlterHero_67
+  - first:
+      213: 6752347889847691231
+    second: AlterHero_68
+  - first:
+      213: 3258826204822374560
+    second: AlterHero_69
+  - first:
+      213: -4309354442776285409
+    second: AlterHero_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlterHero_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286b89e0dcb2834590f9376305ceecb
+      internalID: 6828340123233543301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 620
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b565ff27776db4b80ad1b2e1cdc900
+      internalID: -6368812445251339358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 620
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de48bb26c6115499d629d6217a15bc
+      internalID: -5042038726047763651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 620
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e722bc3ec01d974c89bc05d0ceb9bc5
+      internalID: 6464187989652797792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_4
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 620
+        width: 178
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbcb6dfb0c841842b21c57425ace5a5
+      internalID: -2978695545461294579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 620
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4437dbf1ef39604cb360eb56cbd3d39
+      internalID: -6892256385153992414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_6
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 620
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdec463c36017a4f885bd22a036dfe3
+      internalID: 7398419844541678741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_7
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 620
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eacaa0ee1017124dadeb02bedd738e5
+      internalID: 516239535632736447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_8
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 620
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba76fb08995f24aa1b0aff4e6cf4a8
+      internalID: -1449389768957201297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_9
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 620
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215bc20cc82f20c46b44dec50e91e90e
+      internalID: 2935214076923815922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_10
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720185d383cd612448cd01fcbc9d78bd
+      internalID: 594136252315378525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_11
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea9ac357d8dab448642bb230bce5a8
+      internalID: -4463678868888084792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_12
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc5c24f179abe44b2c37f6e8c1b428
+      internalID: -548488096550598972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_13
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bbef42850f9684c9ca5ef92f799331
+      internalID: -7881956139655368867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_14
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfcbb6a39f0fa42b6491ece350bf8b
+      internalID: 8137851442397224083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_15
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384240a3627bd2d4bb01e4b2e66848f0
+      internalID: 2969096989207472507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_16
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d71ae1ed2a4e444b4dbcdb1c891763
+      internalID: -3587925892739421248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_17
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 620
+        width: 171
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec8611528597546adf5e1baa6bf7dc
+      internalID: 1910845973372463919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_18
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 620
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d046ae0ed536a3848a15a5a7bfb31731
+      internalID: -6975118792927257381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 428
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5532a533bb814db852487beba8f3d
+      internalID: 3631274062517419288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 428
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b2e5ebcca7e934683d29772e427921
+      internalID: -6750018428045955510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 428
+        width: 160
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9381442d0c7c4540b08d437d26ad3b0
+      internalID: -7977626764741029438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 428
+        width: 162
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dfbc13bcd8ae34e8fd16e3fc3547a5
+      internalID: 7784377055352219822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 428
+        width: 162
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ae73e3a17df54ea4dad7a2f037565
+      internalID: 6179983816563422778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_24
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 428
+        width: 160
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67be11de7f0a5549b12b5b162a6a2a0
+      internalID: 3828338307245936824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_25
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 428
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92272467b71c8489ff72335a98ce5a
+      internalID: 2806258002212234387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_26
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 428
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abfeaef346d8646ba4b8be08d92a38
+      internalID: 4601369182092407715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_27
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 428
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4140f7749f5113846b98b2e411fbb2b4
+      internalID: -5435054012237810953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_28
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 428
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab038743f19a93244bfe7d7442cdedfb
+      internalID: -7063291150321698585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_29
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 428
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5983b04f43f1ec4c84e17aa4bb647be
+      internalID: 5777105144312281600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_30
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 428
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c8f40f9963dc44be1d2c9457bc748
+      internalID: 4678799838836756116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_31
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 428
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36d8c66c37513479a7f46ff0a4e1d3
+      internalID: -7147381003912527665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_32
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 428
+        width: 176
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878fe18bdc399d4eb26ec8ae5690d68
+      internalID: -924624521269834731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_33
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 428
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2463fe96ea8cd4db2c42f82e967f31
+      internalID: 1324767702111805873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_34
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 428
+        width: 190
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8720fd020c819040b6c7acf874899ce
+      internalID: 8911944921893295870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_35
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 428
+        width: 190
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef301500026e1d44b446785a17d5458
+      internalID: 3797152874520181637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_36
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 428
+        width: 188
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf4f639724aab84fa08871569168ee2
+      internalID: 34310605690712130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 246
+        width: 190
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029149943445410468a6bd040c239ac5
+      internalID: -6495118030991357726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 246
+        width: 188
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1efe83dc722e44b877d4a51972242
+      internalID: 3612190353980046226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 246
+        width: 178
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b54713f3ec6604b8a35ecb4ead36bc
+      internalID: -7455768294319981651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_40
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 246
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9c9dd385c31943abc53e14d30a208
+      internalID: -9068367228591585599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_41
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 246
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b047382af86d04bbf8977cfb7e049d
+      internalID: -8059355118314526676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_42
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 246
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf211f375bce974b9d509cb51c58978
+      internalID: -7806742574512430972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_43
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 246
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300608a38cb75604a8d4b513e941e3af
+      internalID: -2885657969394936896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_44
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 246
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe6c1bd42feae4ebc20db393b3ed4a
+      internalID: -6747771574071824380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_45
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 246
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8282736ce1845249a3027bd5d5d0673
+      internalID: 8595300323286570681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_46
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 246
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991bc5604f09074092f39056b18b219
+      internalID: -6897722754491529859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_47
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 246
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569d11414071a042bb3190f6fd6bd94
+      internalID: 1874612205237216083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_48
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 246
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358dfde34410bd4dbf3e2b97627e5b3
+      internalID: -6040151850982342951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_49
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 246
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f45ff3c6685e446b8496d7fd2602e7
+      internalID: -1327528866553276375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_50
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 246
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785bb70147fca6f4994ed3fc76a40f6b
+      internalID: 4753207749557641298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_51
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 246
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f987d4748f424bbfdcd0d4c229f5b
+      internalID: 4154713346743621118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_52
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 246
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57008f862c7b7a4fadde1a46fc6d934
+      internalID: 69376405838650074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_53
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 246
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedeab6843928324d93481a09bf44e98
+      internalID: 3553769836995747555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba6aa4f4ddff5408d0851ef9ff44a4
+      internalID: 6561031701046086811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a3baa5daa28a4faa87fcfd8431671
+      internalID: -2648098211417648697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20419ab45232dab449e15eeaf8826d6c
+      internalID: 3986677838043751090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_57
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 63
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717dbcef117de184cbcbd5f18e224b26
+      internalID: -6622088047768693437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_58
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5a10710ad547459f64be7466418d0
+      internalID: -693727718770779403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_59
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7bef23a96263458be38d0dd9f83c9
+      internalID: 6707211561091960675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_60
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9cdb59e839e043a77ac5072124867
+      internalID: -2404138398167974448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_61
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 63
+        width: 172
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f0472615960cc49aa30b993357ae3c
+      internalID: 1835793451716050805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_62
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 63
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66537662158d6254c921db0b2ddf9de9
+      internalID: 6178761590587966600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_63
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 63
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ceae8b854bd84aa623fdf6d95aa20
+      internalID: -2536031240207153319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_64
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 63
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4acad498d2615641bb8a56401fe19ae
+      internalID: 5454311678099188372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_65
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 63
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c422d7ffa515a4282c6eec9c1a55f3
+      internalID: -1844833118372496546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_66
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 63
+        width: 176
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f102d032a4075eb4c8c631f027b265d2
+      internalID: -5488801103260653713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_67
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 63
+        width: 176
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36fb2cced331641910bc18bc51fb62
+      internalID: 5745252245548289466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_68
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 63
+        width: 176
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba56568f566e2d4a8dfd7dfb57e5eea
+      internalID: 6752347889847691231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_69
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 63
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57efd689809d0bb4bac47070ca861d14
+      internalID: 3258826204822374560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlterHero_70
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 63
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ca30e2f8cb964fbc3985d16d0ff60
+      internalID: -4309354442776285409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 653855ca7bb66954aadac1b69e29e77f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
